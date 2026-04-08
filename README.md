@@ -1,3 +1,7 @@
+<img width="1864" height="1239" alt="Screenshot 2026-04-06 at 12 55 33 PM" src="https://github.com/user-attachments/assets/4379262b-d1c4-4091-b81b-6ceabd512dd1" />
+
+
+
 # Meridian Analytics Intelligence Assistant
 
 An AI-powered research assistant that combines semantic search over internal documents with live web intelligence. Built on the **ReAct (Reasoning + Acting)** agent pattern, it routes natural language queries to the right data source automatically — internal knowledge base or real-time web search — and synthesizes a grounded answer with source attribution.
